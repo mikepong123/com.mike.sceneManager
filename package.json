@@ -1,5 +1,5 @@
-﻿{
-  "name": "com.mike.sceneManager",
+{
+  "name": "com.mike.scenemanager",
   "version": "1.0.0",
   "displayName": "mike 工具包:場景管理器",
   "description": "提供切換場景與退出場景功能",
